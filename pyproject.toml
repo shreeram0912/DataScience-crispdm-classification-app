@@ -1,0 +1,23 @@
+[project]
+name = "crispdm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "catboost>=1.2.8",
+    "category-encoders>=2.8.1",
+    "feature-engine>=1.8.3",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.1",
+    "mkdocs>=1.6.1",
+    "mlflow>=2.21.3",
+    "nbformat>=5.10.4",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.44.1",
+    "ucimlrepo>=0.0.7",
+]

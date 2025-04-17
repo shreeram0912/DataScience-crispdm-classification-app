@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744878673947
+current_stage: None
+description: ''
+last_updated_timestamp: 1744878673947
+name: approved_clf
+run_id: ec0d58fe2dfb4c01bfb612dac2ed8a71
+run_link: ''
+source: mlflow-artifacts:/920464743834941824/ec0d58fe2dfb4c01bfb612dac2ed8a71/artifacts/simpler_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/920464743834941824/ec0d58fe2dfb4c01bfb612dac2ed8a71/artifacts/simpler_model
+user_id: null
+version: 1

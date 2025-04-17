@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/920464743834941824
+creation_time: 1744834927177
+experiment_id: '920464743834941824'
+last_update_time: 1744834927177
+lifecycle_stage: active
+name: crispdm-clf

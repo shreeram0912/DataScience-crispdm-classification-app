@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/920464743834941824/0ae3ddf366ba49fe807199d5264e8535/artifacts
+end_time: 1744835669022
+entry_point_name: ''
+experiment_id: '920464743834941824'
+lifecycle_stage: active
+run_id: 0ae3ddf366ba49fe807199d5264e8535
+run_name: popular-wren-605
+run_uuid: 0ae3ddf366ba49fe807199d5264e8535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744835651125
+status: 3
+tags: []
+user_id: Krishna
